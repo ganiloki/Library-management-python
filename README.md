@@ -11,7 +11,7 @@ Functionalities
 Installations
 pip install python-tk
 
-Languages used
+Languages used:
 python and SOL 
 TKinter forfrontend
 
