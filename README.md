@@ -1,6 +1,6 @@
 #Library management in python using TKinter and sql
 
-Functionalities
+Functionalities:
 *Add books
 *Delete/update books
 *Search books
@@ -8,7 +8,7 @@ Functionalities
 *Return books
 *Student activity
 
-Installations
+Installations:
 pip install python-tk
 
 Languages used:
